@@ -1,0 +1,36 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/acute-myocardial-infarction---secondary.py
+inputModule3:
+  class: File
+  path: python/myocardial-infarction-anterior---secondary.py
+inputModule4:
+  class: File
+  path: python/myocardial-infarction-inferior---secondary.py
+inputModule5:
+  class: File
+  path: python/other-myocardial-infarction---secondary.py
+inputModule6:
+  class: File
+  path: python/myocardial-infarction-unspecified---secondary.py
+inputModule7:
+  class: File
+  path: python/subsequent-myocardial-infarction---secondary.py
+inputModule8:
+  class: File
+  path: python/myocardial-infarction-following---secondary.py
+inputModule9:
+  class: File
+  path: python/myocardial-infarction-haemopericardium---secondary.py
+inputModule10:
+  class: File
+  path: python/myocardial-infarction-defect---secondary.py
+inputModule11:
+  class: File
+  path: python/myocardial-infarction-rupture---secondary.py
+inputModule12:
+  class: File
+  path: python/output-cases.py
